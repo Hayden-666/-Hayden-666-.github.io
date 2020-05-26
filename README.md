@@ -1,1 +1,1 @@
-# -Hayden-666-.github.io
+# Hayden's binary puzzle game
